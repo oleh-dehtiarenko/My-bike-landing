@@ -6,5 +6,5 @@ This landing page used the following technologies and was developed according to
 - CSS/SCSS;
 - JavaScript;
 
-Click this link to view the project:
-https://github.com/oleh-dehtiarenko/My-bike-landing/
+Click this link to view the landing page:
+https://oleh-dehtiarenko.github.io/My-bike-landing/
