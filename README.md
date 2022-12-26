@@ -7,4 +7,4 @@ This landing page used the following technologies and was developed according to
 - JavaScript;
 
 Click this link to view the project:
-https://github.com/oleh-dehtiarenko/My-bike-landing/
+https://github.com/My-bike-landing/
